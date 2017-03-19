@@ -1,9 +1,45 @@
 html {
   text-align: center;
   font-family: Helvetica;
+
 }
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: white;
+
+}
+#header {
+  font-size: 18px;
+  color: white;
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+p {
+  font-size: 14px;
+
+}
+#unique {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background-image: url("css\resources\flatiron.png");
+}
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+a {
   color: white;
 }
